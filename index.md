@@ -6,6 +6,7 @@ Hi, I am a computer science major with an emphasis on cyber security at CSUF and
 * Lab 10 Part 1
 
   In my 3rd favorite lab we created some code that accessed a dictionary file and checked if the the words in another document were spelled correctly adding the 2nd file's words to a vector and checking if each word was present in another vector that held all the dictionary words. It was fun activity and I enjoyed leanring about 2D vectors and how they work.
+  
 *Lab 11 Part 1
 
 This was my 2nd favorite lab where we created code that read from a States Demographics file by storing the information in a vector with the state's name, popuilation, and land area. I learned about using objects in
